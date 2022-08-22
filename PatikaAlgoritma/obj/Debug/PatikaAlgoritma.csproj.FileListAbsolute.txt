@@ -1,0 +1,8 @@
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\bin\Debug\PatikaAlgoritma.exe.config
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\bin\Debug\PatikaAlgoritma.exe
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\bin\Debug\PatikaAlgoritma.pdb
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\obj\Debug\PatikaAlgoritma.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\obj\Debug\PatikaAlgoritma.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\obj\Debug\PatikaAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\obj\Debug\PatikaAlgoritma.exe
+C:\Users\casper\Desktop\Patika\C#\PatikaAlgoritma\PatikaAlgoritma\obj\Debug\PatikaAlgoritma.pdb

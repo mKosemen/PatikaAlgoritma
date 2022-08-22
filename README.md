@@ -1,0 +1,2 @@
+# PatikaAlgoritma
+ Patika Algoritma Odev
